@@ -1,0 +1,359 @@
+﻿@model GraduaitionProjectITI.Models.Entity.Product
+
+@{
+    ViewData["Title"] = "Home Page";
+
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+
+
+}
+
+
+
+
+<div class="d-flex flex-wrap container ">
+    <div class="row col-12">
+        <div class="col-7 m-1">
+            <img id="prodIMG" src="~/ProductImages/@Model.ImgPath" width="90%" class="maxH" />
+            <div class="d-flex justify-content-center row" id="loading"></div>
+        </div>
+
+        <div class="col-md-4 col-sm-12 d-flex justify-content-center flex-wrap mt-2 border border-dark p-3  bgCLR">
+            <ul class=" list-group list-group-flush">
+                <div class="col-12 fs-4 fw- mb-3" style="font-size:1rem">
+                    <strong class="fs-1">Title:</strong> @Model.Name
+                </div>
+                <div class="col-12 fs-2 mb-1"><strong>Brand:</strong> @Model.Brand.Name</div>
+                <div class="col-12 fs-2 mb-1"><strong>Category:</strong> @Model.Category.Name</div>
+                <div class="col-12 fs-2 mb-1"><strong>Details:</strong> @Model.Details</div>
+                <div class="col-12 fs-2 mb-1"><strong>Manufacture:</strong> @Model.Manufacture</div>
+                @if (@Model.Count <= 20)
+                {
+                    <div class="col-12 fs-2 mb-1"><strong>Available in Stock:</strong> @Model.Count</div>
+                }
+
+
+                <div class="col-12 fs-3 mb-1"><strong>Price:</strong> @Model.Price EGP</div>
+                <div class="product col-12">
+                    <div class="rating">
+                        @for (int i = 1; i <= 5; i++)
+                        {
+                            <span class="star @((i <= 4.5) ? "rated" : "unrated")"><i class="fas fa-star"></i></span>
+                        }
+                        <span class="rating-value">4.5</span>
+                    </div>
+                </div>
+
+
+
+                <br />
+
+                <a href="#" id="addBTN @Model.Id" class="btn btn-primary col-12 ">Add To Cart</a>
+
+
+            </ul>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <br />
+
+
+    <div class=" display-5 m-3  text-light">
+        People Also Watch
+    </div>
+
+    <div id="carouselExample" class="carousel slide">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+
+                <div class="container-fluid d-flex d-block w-100 flex-wrap justify-content-center border-2" style="border-style:solid ">
+                    @if (ViewData["Products"] != null)
+                    {
+                        @foreach (var item in ViewData["Products"] as IEnumerable<GraduaitionProjectITI.Models.Entity.Product>)
+                        {
+                            <div class="card col-3 m-1 cursor-pointer" style="width: 18rem;" onclick="navigateToProduct(@item.Id)">
+                                <img src="~/ProductImages/@item.ImgPath" class="card-img-top mt-1 " height="150px" alt="...">
+                                <div id="loading"></div>
+
+                                <div class="card-body">
+                                    <h4 class="card-title">@item.Name</h4>
+                                    <h5 class="card-title">@item.Brand.Name</h5>
+                                    <p class="card-text text-dark">
+                                        @(
+                                            (@item.Details.Length > 25) ? @item.Details.Substring(0, 22) + "..." : @item.Details
+                                            )
+                                    </p>
+                                    <h4 class="card-text ">@item.Price EGP</h4>
+
+                                    <div class="product col-12">
+                                        <div class="rating">
+                                            @for (int i = 1; i <= 5; i++)
+                                            {
+                                                <span class="star @((i <= 4.5) ? " rated" : "unrated"
+                                    )"><i class="fas fa-star"></i></span>
+                                            }
+                                            <span class="rating-value">4.5</span>
+                                        </div>
+                                    </div>
+
+                                    <a href="#" class="btn btn-primary hide col-12 ">Add To Cart</a>
+
+
+                                </div>
+                            </div>
+
+                        }
+                    }
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container-fluid d-flex d-block w-100 flex-wrap justify-content-center border-2" style="border-style:solid ">
+                    @if (ViewData["Products"] != null)
+                    {
+                        @foreach (var item in ViewData["Products"] as IEnumerable<GraduaitionProjectITI.Models.Entity.Product>)
+                        {
+                            <div class="card col-3 m-1 cursor-pointer" style="width: 18rem;" onclick="navigateToProduct(@item.Id)">
+                                <img src="~/ProductImages/@item.ImgPath" class="card-img-top mt-1 " height="150px" alt="...">
+                                <div class="card-body">
+                                    <h4 class="card-title">@item.Name</h4>
+                                    <h5 class="card-title">@item.Brand.Name</h5>
+                                    <p class="card-text text-dark">
+                                        @(
+                                            (@item.Details.Length > 25) ? @item.Details.Substring(0, 22) + "..." : @item.Details
+                                            )
+                                    </p>
+                                    <h4 class="card-text ">@item.Price EGP</h4>
+
+                                    <div class="product col-12">
+                                        <div class="rating">
+                                            @for (int i = 1; i <= 5; i++)
+                                            {
+                                                <span class="star @((i <= 4.5) ? " rated" : "unrated"
+                                    )"><i class="fas fa-star"></i></span>
+                                            }
+                                            <span class="rating-value">4.5</span>
+                                        </div>
+                                    </div>
+
+                                    <a href="#" class="btn btn-primary hide col-12 ">Add To Cart</a>
+
+
+                                </div>
+                            </div>
+
+                        }
+                    }
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container-fluid d-flex d-block w-100 flex-wrap justify-content-center border-2" style="border-style:solid ">
+                    @if (ViewData["Products"] != null)
+                    {
+                        @foreach (var item in ViewData["Products"] as IEnumerable<GraduaitionProjectITI.Models.Entity.Product>)
+                        {
+                            <div class="card col-3 m-1 cursor-pointer" style="width: 18rem;" onclick="navigateToProduct(@item.Id)">
+                                <img src="~/ProductImages/@item.ImgPath" class="card-img-top mt-1 " height="150px" alt="...">
+                                <div class="card-body">
+                                    <h4 class="card-title">@item.Name</h4>
+                                    <h5 class="card-title">@item.Brand.Name</h5>
+                                    <p class="card-text text-dark">
+                                        @(
+                                            (@item.Details.Length > 25) ? @item.Details.Substring(0, 22) + "..." : @item.Details
+                                            )
+                                    </p>
+                                    <h4 class="card-text ">@item.Price EGP</h4>
+
+                                    <div class="product col-12">
+                                        <div class="rating">
+                                            @for (int i = 1; i <= 5; i++)
+                                            {
+                                                <span class="star @((i <= 4.5) ? " rated" : "unrated"
+                                    )"><i class="fas fa-star"></i></span>
+                                            }
+                                            <span class="rating-value">4.5</span>
+                                        </div>
+                                    </div>
+
+                                    <a href="#" class="btn btn-primary hide col-12 ">Add To Cart</a>
+
+
+                                </div>
+                            </div>
+
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev onHover btnWidth" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next onHover btnWidth" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    </>
+
+
+
+
+
+
+
+    <div class="row mt-5 p-2 allComments">
+
+        <div class="display-4 ">
+            Clients Comments
+        </div>
+
+
+
+        <hr />
+
+
+
+        <div class="COMMENT">
+
+            <div class="product col-12 mb-2">
+                <div class="rating">
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        <span class="star @((i <= 4.5) ? " rated" : "unrated"
+                                 )"><i class="fas fa-star"></i></span>
+                    }
+                    <span class="rating-value">4.5</span>
+                </div>
+            </div>
+
+            <h2 class="mb-2">Main Comment</h2>
+
+            <h4 class="mb-2">Comment Details</h4>
+
+            <p class="mb-2">26-5-2023 by UserName <i class="bi bi-person-circle"></i></p>
+
+        </div>
+
+        <hr />
+
+
+
+        <div class="COMMENT">
+
+            <div class="product col-12 mb-2">
+                <div class="rating">
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        <span class="star @((i <= 4.5) ? " rated" : "unrated"
+                                 )"><i class="fas fa-star"></i></span>
+                    }
+                    <span class="rating-value">4.5</span>
+                </div>
+            </div>
+
+            <h2 class="mb-2">Main Comment</h2>
+
+            <h4 class="mb-2">Comment Details</h4>
+
+            <p class="mb-2">26-5-2023 by UserName <i class="bi bi-person-circle"></i></p>
+
+        </div>
+        <hr />
+
+
+
+        <div class="COMMENT">
+
+            <div class="product col-12 mb-2">
+                <div class="rating">
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        <span class="star @((i <= 4.5) ? " rated" : "unrated"
+                                 )"><i class="fas fa-star"></i></span>
+                    }
+                    <span class="rating-value">4.5</span>
+                </div>
+            </div>
+
+            <h2 class="mb-2">Main Comment</h2>
+
+            <h4 class="mb-2">Comment Details</h4>
+
+            <p class="mb-2">26-5-2023 by UserName <i class="bi bi-person-circle"></i></p>
+
+        </div>
+
+        <hr />
+
+
+
+        <div class="COMMENT">
+
+            <div class="product col-12 mb-2">
+                <div class="rating">
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        <span class="star @((i <= 4.5) ? " rated" : "unrated"
+                                 )"><i class="fas fa-star"></i></span>
+                    }
+                    <span class="rating-value">4.5</span>
+                </div>
+            </div>
+
+            <h2 class="mb-2">Main Comment</h2>
+
+            <h4 class="mb-2">Comment Details</h4>
+
+            <p class="mb-2">26-5-2023 by UserName <i class="bi bi-person-circle"></i></p>
+
+        </div>
+
+        <hr />
+
+        <div>
+            <h3 class="mb-2"><i class="bi bi-person-circle"></i> UserName </h3>
+            <p>
+                Rating: <span class="star-rating">
+                    <label for="rate-1" style="--i:1"><i class="bi bi-star-fill"></i></label>
+                    <input type="radio" name="rating" id="rate-1" value="1">
+                    <label for="rate-2" style="--i:2"><i class="bi bi-star-fill"></i></i></label>
+                    <input type="radio" name="rating" id="rate-2" value="2">
+                    <label for="rate-3" style="--i:3"><i class="bi bi-star-fill"></i></i></label>
+                    <input type="radio" name="rating" id="rate-3" value="3">
+                    <label for="rate-4" style="--i:4"><i class="bi bi-star-fill"></i></label>
+                    <input type="radio" name="rating" id="rate-4" value="4">
+                    <label for="rate-5" style="--i:5"><i class="bi bi-star-fill"></i></i></label>
+                    <input type="radio" name="rating" id="rate-5" value="5">
+                </span>
+            </p>
+
+            <div class="shadow p-3 mb-5 bg-body-tertiary rounded form-group shadow-textarea">
+                <textarea class="form-control z-depth-1" rows="3" placeholder="Write Your Comment here..."></textarea>
+            </div>
+            <a href="#" class="btn btn-primary col-12 ">Add Comment</a>
+
+        </div>
+
+
+
+
+
+
+
+
+    </div>
+</div>
+
+
+
+
+
+

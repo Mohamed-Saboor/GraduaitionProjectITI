@@ -1,0 +1,297 @@
+﻿@model IEnumerable<GraduaitionProjectITI.Models.Entity.Product>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GraduaitionProjectITI</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.minHome.css" />
+    <link rel="stylesheet" href="~/bootstrap-icons/font/bootstrap-icons.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/GraduaitionProjectITI.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+    <link rel="stylesheet" href="~/css/Home.css" />
+    <script src="~/js/Home.js"> </script>
+
+
+
+    <style>
+        .onHover:hover {
+            background-color: #9e9e9e6e !important;
+        }
+
+        .btnWidth {
+            width: 10% !important;
+        }
+
+        .bgCLR {
+            background-color: #eee !important;
+        }
+
+        .maxH {
+            max-height: 450px
+        }
+
+
+
+        .star-rating {
+            white-space: nowrap;
+            color: #ccc;
+        }
+
+            .star-rating [type="radio"] {
+                appearance: none;
+            }
+
+            .star-rating i {
+                font-size: 1.2em;
+                transition: 0.3s;
+            }
+
+            .star-rating label:is(:hover, :has(~ :hover)) i {
+                transform: scale(1.35);
+                color: #fffdba !important;
+                animation: jump 0.5s calc(0.3s + (var(--i) - 1) * 0.15s) alternate infinite;
+            }
+
+            .star-rating label:has(~ :checked) i {
+                color: #ffc107 !important;
+                text-shadow: 0 0 2px #ffffff, 0 0 10px #ffee58;
+            }
+
+    </style>
+
+</head>
+<body class="m-0">
+
+
+    <nav class="navbar navbar-expand-lg bg-primary p-1" data-bs-theme="dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/Home"><img src="~/HomeImages/Logo.png" /> Leon Trade</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarColor01">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item m-0">
+                        <a class="nav-link @((true) ? "active" : "")" href="/Home">
+                            Home
+                            <span class="visually-hidden">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item m-0">
+                        <a class="nav-link" href="/Contact">Contact</a>
+                    </li>
+                    <li class="nav-item m-0">
+                        <a class="nav-link" href="#">About</a>
+                    </li>
+                    <li class="nav-item dropdown m-0">
+                        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Brand</a>
+                        <div class="dropdown-menu">
+                            @foreach (var item in Model)
+                            {
+                                <a class="dropdown-item" @Html.ActionLink(@item.Brand.Name, "Index", new { BrandId=@item.BrandId })></a>
+                            }
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Separated link</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Category</a>
+                        <div class="dropdown-menu">
+                            @foreach (var item in Model)
+                            {
+                                <a class="dropdown-item" @Html.ActionLink(@item.Category.Name, "productOfCat","Home", new { catId=@item.CategoryId })></a>
+                            }
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Separated link</a>
+                        </div>
+                    </li>
+
+                </ul>
+
+                @*         <form class="d-flex">
+                <input class="form-control me-sm-2" type="search" placeholder="Search">
+                <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+                </form> *@
+                <form class="d-flex ms-auto w-100 " role="search">
+                    <input class="form-control me-3 text-dark bg-white input" type="search" placeholder="Search Product" aria-label="Search">
+                    <span class="bg-light me-3 "><button class="btn btn-outline-primary" type="submit">Search</button></span>
+                </form>
+                <ul class="navbar-nav">
+                    <li class="nav-item dropdown">
+                        @if (User.Identity.IsAuthenticated == false)
+                        {
+                            <a class="nav-link dropdown-toggle form-check form-check-inline" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Account</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" asp-controller="Account" asp-action="Login">Sign In</a>
+
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" asp-controller="Account" asp-action="Register">Sign Up</a>
+                            </div>
+
+                        }
+                        else
+                        {
+                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                                <i class="bi bi-person-circle"></i>
+                                @User.Identity.Name.Split("@")[0]
+                            </a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="#"><i class="bi bi-person-vcard-fill"></i> My Account</a>
+                                <a class="dropdown-item" href="#"><i class="bi bi-printer-fill"></i> Orders</a>
+                                <a class="dropdown-item" href="#"><i class="bi bi-heart"></i> Saved Items</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" asp-controller="Account" asp-action="Logout"><i class="bi bi-box-arrow-left"></i> Logout</a>
+                            </div>
+                        }
+
+                    </li>
+
+                </ul>
+
+                <a onclick="goToCart()>
+                    <i type="button" class="bi fs-4 bi-cart4 text-light position-relative me-2 p-0 nav-item nav-link">
+                        <span id="CartIcon" class="position-absolute fs-6 top-0 start-100 translate-middle badge rounded-pill bg-danger">
+                            0
+                            <span class="visually-hidden">unread messages</span>
+                        </span>
+                    </i>
+                </a>
+
+
+
+            </div>
+        </div>
+    </nav>
+    <div class="content pb-3">
+        @RenderBody()
+    </div>
+
+    <div class="container-fluid w-100 bg-primary">
+        <div class="row" style="width: 100%;">
+            <div class="container col-12 bg-primary">
+                <div class="col-12 bg-primary">
+
+                    <footer class="text-center text-lg-start text-white">
+
+                        <section class="d-flex justify-content-between p-4">
+
+                            <div class="me-5">
+                                <span>Get connected with us on social networks:</span>
+                            </div>
+
+                            <div>
+                                <a href="" class="text-white me-4">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                                <a href="" class="text-white me-4">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="" class="text-white me-4">
+                                    <i class="fab fa-google"></i>
+                                </a>
+                                <a href="" class="text-white me-4">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="" class="text-white me-4">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </div>
+
+                        </section>
+
+                        <section class="">
+                            <div class="container text-center text-md-start mt-5">
+
+                                <div class="row mt-3">
+
+                                    <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+
+                                        <h6 class="text-uppercase fw-bold text-light">Peloton</h6>
+                                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
+                                            style="width: 60px; height: 2px" />
+                                        <p>
+                                            Online shopping is one of the most convenient and easy modes of shopping as users can
+                                            browse and choose products from a wide range without having to go to physical stores.
+                                        </p>
+                                    </div>
+
+                                    <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+
+                                        <h6 class="text-uppercase fw-bold text-light    ">Categories</h6>
+                                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
+                                            style="width: 60px; height: 2px" />
+                                        <p>
+                                            <a href="#!" class="text-white">Smart Phone</a>
+                                        </p>
+                                        <p>
+                                            <a href="#!" class="text-white">Laptops</a>
+                                        </p>
+                                        <p>
+                                            <a href="#!" class="text-white">Fragrances</a>
+                                        </p>
+                                        <p>
+                                            <a href="#!" class="text-white">Skincare</a>
+                                        </p>
+                                        <p>
+                                            <a href="#!" class="text-white">Home Decoration</a>
+                                        </p>
+                                    </div>
+
+                                    <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+
+                                        <h6 class="text-uppercase fw-bold text-light">Useful links</h6>
+                                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
+                                            style="width: 60px; height: 2px" />
+                                        <p>
+                                            <a href="#!" class="text-white">Your Account</a>
+                                        </p>
+                                        <p>
+                                            <a href="#!" class="text-white">Become an Affiliate</a>
+                                        </p>
+                                        <p>
+                                            <a href="#!" class="text-white">Shipping Rates</a>
+                                        </p>
+                                        <p>
+                                            <a href="#!" class="text-white">About us</a>
+                                        </p>
+                                        <p>
+                                            <a href="#!" class="text-white">Help</a>
+                                        </p>
+                                    </div>
+
+                                    <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+
+                                        <h6 class="text-uppercase fw-bold text-light">Contact</h6>
+                                        <hr class="mb-4 mt-0 d-inline-block mx-auto"
+                                            style="width: 60px; height: 2px" />
+
+                                        <p><i class="fas fa-envelope mr-3"></i> Peloton@gmail.com </p>
+                                        <p><i class="fas fa-phone mr-3"></i> + 01271927950</p>
+                                        <p><i class="fas fa-print mr-3"></i> + 01271927950</p>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </section>
+
+                        <div class="text-center p-3">
+                            © 2023 Copyright:
+                            <a class="text-white" href="">Peloton.com</a>
+                        </div>
+                    </footer>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

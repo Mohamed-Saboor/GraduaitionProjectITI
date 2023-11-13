@@ -1,0 +1,28 @@
+﻿@model GraduaitionProjectITI.Models.Entity.Product
+
+
+<div class="card col-4 m-3 cursor-pointer" style="width: 18rem;">
+
+    <img onclick="navigateToProduct(@Model.Id)" src="~/ProductImages/@Model.ImgPath" class="card-img-top mt-1 " height="150px" alt="...">
+    <div class="card-body">
+        <div onclick="navigateToProduct(@Model.Id)">
+            <h4 class="card-title">@Model.Name</h4>
+            <h5 class="card-title">@Model.Brand.Name</h5>
+            <p class="card-text text-dark">@((@Model.Details.Length > 25) ? @Model.Details.Substring(0, 22) + "..." : @Model.Details) </p>
+            <h4 class="card-text ">@Model.Price EGP</h4>
+
+            <div class="product col-12">
+                <div class="rating">
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        <span class="star @((i <= 4.5) ? "rated" : "unrated")"><i class="fas fa-star"></i></span>
+                    }
+                    <span class="rating-value">4.5</span>
+                </div>
+            </div>
+        </div>
+        <a id="@Model.Id" class="btn btn-primary hide col-12 " onclick="AddToClick(@Model.Id)">Add To Cart</a>
+
+
+    </div>
+</div>

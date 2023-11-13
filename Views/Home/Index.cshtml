@@ -1,0 +1,114 @@
+﻿@model IEnumerable<GraduaitionProjectITI.Models.Entity.Product>
+
+
+@{
+    ViewData["Title"] = "Home Page";
+
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+
+
+}
+
+<script>
+    (function ($) {
+        if (!window.yourNamespace) {
+            window.yourNamespace = {};
+        }
+        if (!window.yourNamespace.yourPageScript) {
+            window.yourNamespace.yourPageScript = function () {
+                var populateView = function (dropDown) {
+                    if (dropDown && dropDown.length) {
+                        var value = dropdown.val();
+                        $.ajax({
+                            method: "GET",
+                            cache: false,
+                            url: "some.url/PopulateType",
+                            dataType: "HTML"
+                                data: { selectedValue: value }
+                        })
+                            .done(function (response) { // jQuery 1.8 deprecates success() callback
+                                var div = $('#partialViewDiv');
+                                div.html('');
+                                div.html(response);
+                            });
+                    }
+                };
+
+                return {
+                    populateView: populateView
+                };
+            };
+        }
+    }(jQuery));
+
+
+    $(document).ready(function () {
+        var dropDown = $('#TypeId'); // assuming the ID of this element is 'TypeId'
+        dropDown.change(function () {
+            yourNamespace.yourPageScript.populateView(dropDown);
+        });
+    });
+    ////////////////////////////////////////////////////
+    function AddToClick(Id) {
+        $.ajax({
+            url: '/Cart/AddToCart',
+            type: 'GET',
+            data: { productId: Id }, 
+            success: function (data) {
+                console.log(data)
+                Hamada(data, Id)
+
+            },
+            error: function () {
+                console.log('Error loading data.');
+            }
+        });
+    }
+
+    $(document).ready(function () {
+        // Ajax call when the document is ready
+        $.ajax({
+            url: '/Cart/Hamada',
+            type: 'GET',
+            data: { productId: Id }, // Adjust page size as needed
+            success: function (data) {
+                document.getElementById("CartIcon").innerHTML = `${cartItems.length}`;
+            },
+            error: function () {
+                console.log('Error loading data.');
+            }
+        });
+    });
+
+</script>
+
+
+<div class="container-fluid d-flex flex-wrap justify-content-center">
+
+    @foreach (var item in Model)
+    {
+
+
+        <div id="partialViewDiv">
+            @Html.Partial("Product", item);
+        </div>
+
+    }
+
+
+</div>
+
+<script>
+    function Hamada(data, id) {
+        document.getElementById(`${id}`).style.backgroundColor = "#0b8b43";
+        document.getElementById(`${id}`).innerHTML = "Added";
+        document.getElementById(`${id}`).setAttribute("disabled", true);
+        document.getElementById("CartIcon").innerHTML = `${data}`;
+    }
+</script>
+
+
+
+
+
+

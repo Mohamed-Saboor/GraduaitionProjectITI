@@ -1,0 +1,41 @@
+﻿@model IEnumerable<GraduaitionProjectITI.ViewModel.ReviewProductNameAndNoFReviewViewModel>
+
+@{
+    ViewData["Title"] = "Reviews";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1> All Product That Have Reviews  </h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Product Name 
+            </th>
+            <th>
+                Number Of  Reviews 
+            </th>
+            <th>
+                Show Reviews
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+       @foreach (var item in Model)
+        {
+            <tr>
+                <th>
+                    @item.ProductName
+                </th>
+                <th>
+                    @item.NumberOfReviews
+                </th>
+                <th>
+                    <a class="btn btn-primary" asp-action="GetReviews" asp-controller="Review" asp-route-Id="@item.Id"> Show Reviews  </a>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>

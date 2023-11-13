@@ -1,0 +1,1295 @@
+E:\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.staticwebassets.runtime.json
+E:\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.exe
+E:\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.deps.json
+E:\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.runtimeconfig.json
+E:\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.pdb
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.AssemblyReference.cache
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.GeneratedMSBuildEditorConfig.editorconfig
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.AssemblyInfoInputs.cache
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.AssemblyInfo.cs
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.CoreCompileInputs.cache
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.MvcApplicationPartsAssemblyInfo.cache
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.RazorAssemblyInfo.cache
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.RazorAssemblyInfo.cs
+E:\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.GraduaitionProjectITI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.build.GraduaitionProjectITI.props
+E:\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GraduaitionProjectITI.props
+E:\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GraduaitionProjectITI.props
+E:\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.build.json
+E:\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.development.json
+E:\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\bundle\GraduaitionProjectITI.styles.css
+E:\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\projectbundle\GraduaitionProjectITI.bundle.scp.css
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.dll
+E:\GraduaitionProjectITI\obj\Debug\net7.0\refint\GraduaitionProjectITI.dll
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.pdb
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.genruntimeconfig.cache
+E:\GraduaitionProjectITI\obj\Debug\net7.0\ref\GraduaitionProjectITI.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.CopyComplete
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Azure.Core.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Azure.Identity.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Humanizer.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.CodeDom.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Views\appsettings.Development.json
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Views\appsettings.json
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Build.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Common.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Views\appsettings.Development.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Views\appsettings.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.staticwebassets.runtime.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.exe
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.deps.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.runtimeconfig.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.pdb
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.AssemblyReference.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.AssemblyInfoInputs.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.AssemblyInfo.cs
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.CoreCompileInputs.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.RazorAssemblyInfo.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.RazorAssemblyInfo.cs
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.GraduaitionProjectITI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.build.GraduaitionProjectITI.props
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GraduaitionProjectITI.props
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GraduaitionProjectITI.props
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\bundle\GraduaitionProjectITI.styles.css
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\projectbundle\GraduaitionProjectITI.bundle.scp.css
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.CopyComplete
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\refint\GraduaitionProjectITI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.pdb
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.genruntimeconfig.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\ref\GraduaitionProjectITI.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\appsettings.Development.json
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\appsettings.json
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.staticwebassets.runtime.json
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.exe
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.deps.json
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.runtimeconfig.json
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.pdb
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Azure.Core.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Azure.Identity.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Humanizer.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Build.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Common.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.CodeDom.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.AssemblyReference.cache
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.GeneratedMSBuildEditorConfig.editorconfig
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.AssemblyInfoInputs.cache
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.AssemblyInfo.cs
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.CoreCompileInputs.cache
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.MvcApplicationPartsAssemblyInfo.cache
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.RazorAssemblyInfo.cache
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.RazorAssemblyInfo.cs
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.GraduaitionProjectITI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.build.GraduaitionProjectITI.props
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GraduaitionProjectITI.props
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GraduaitionProjectITI.props
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.build.json
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.development.json
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\bundle\GraduaitionProjectITI.styles.css
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\projectbundle\GraduaitionProjectITI.bundle.scp.css
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.CopyComplete
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\refint\GraduaitionProjectITI.dll
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.pdb
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.genruntimeconfig.cache
+E:\.0000000000000\GraduationProject\GraduaitionProjectITI\GraduaitionProjectITI\obj\Debug\net7.0\ref\GraduaitionProjectITI.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\appsettings.Development.json
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\appsettings.json
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.staticwebassets.runtime.json
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.exe
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.deps.json
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.runtimeconfig.json
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.pdb
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Azure.Core.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Azure.Identity.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Humanizer.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Common.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.CodeDom.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hesham Version\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.AssemblyReference.cache
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.AssemblyInfoInputs.cache
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.AssemblyInfo.cs
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.CoreCompileInputs.cache
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.MvcApplicationPartsAssemblyInfo.cache
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.RazorAssemblyInfo.cache
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.RazorAssemblyInfo.cs
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.GraduaitionProjectITI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.build.GraduaitionProjectITI.props
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GraduaitionProjectITI.props
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GraduaitionProjectITI.props
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\bundle\GraduaitionProjectITI.styles.css
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\projectbundle\GraduaitionProjectITI.bundle.scp.css
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.CopyComplete
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.dll
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\refint\GraduaitionProjectITI.dll
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.pdb
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.genruntimeconfig.cache
+D:\Hesham Version\GraduaitionProjectITI\obj\Debug\net7.0\ref\GraduaitionProjectITI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\appsettings.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.staticwebassets.runtime.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.exe
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.deps.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.runtimeconfig.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\GraduaitionProjectITI.pdb
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.AssemblyReference.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.AssemblyInfoInputs.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.AssemblyInfo.cs
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.CoreCompileInputs.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.RazorAssemblyInfo.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.RazorAssemblyInfo.cs
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.GraduaitionProjectITI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.build.GraduaitionProjectITI.props
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GraduaitionProjectITI.props
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GraduaitionProjectITI.props
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\bundle\GraduaitionProjectITI.styles.css
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\scopedcss\projectbundle\GraduaitionProjectITI.bundle.scp.css
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.csproj.CopyComplete
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\refint\GraduaitionProjectITI.dll
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.pdb
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\GraduaitionProjectITI.genruntimeconfig.cache
+C:\Users\mouhmed sabbor\Downloads\GraduaitionProjectITI (3)\GraduaitionProjectITI\obj\Debug\net7.0\ref\GraduaitionProjectITI.dll
